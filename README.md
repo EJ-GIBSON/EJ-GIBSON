@@ -1,14 +1,4 @@
-### Hi there 👋
-
-<!--
-**EJ-GIBSON/EJ-GIBSON** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKOak5mHT_uBxGsVQ2oGkryvsPBHH-DBL39A&usqp=CAU)](https://EJ-GIBSON.io)
+[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKOak5mHT_uBxGsVQ2oGkryvsPBHH-DBL39A&usqp=CAU)](https://EJ-GIBSON.io)
 <h1 align="center">Hi 👋, I'm Gibson Emmanuel</h1>
 <h3 align="center">A passionate back-end developer from Nigeria</h3>
 <img align="right" alt="coding" width="400" src="https://www.lambdatest.com/resources/images/news24.gif"
