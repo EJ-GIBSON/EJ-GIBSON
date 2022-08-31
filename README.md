@@ -1,7 +1,8 @@
-[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKOak5mHT_uBxGsVQ2oGkryvsPBHH-DBL39A&usqp=CAU)](https://EJ-GIBSON.io)
+[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtK_Wgzjf5HJPKaoFyQEMwsLD_YlqIDXzqpA&usqp=CAU)](https://EJ-GIBSON.io)
 <h1 align="center">Hi 👋, I'm Gibson Emmanuel</h1>
 <h3 align="center">A passionate back-end developer from Nigeria</h3>
 <img align="right" alt="coding" width="400" src="https://www.lambdatest.com/resources/images/news24.gif"
+<img align="left" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuIp5sJI898un1oVWUyNaEuF8OreM2o6J60Q&usqp=CAU"
 
 
 
@@ -31,9 +32,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ej-gibson&show_icons=true&locale=en" alt="ej-gibson" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ej-gibson&" alt="ej-gibson" /></p>
-
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
